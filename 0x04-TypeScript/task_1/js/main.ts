@@ -31,7 +31,7 @@ class StudentClass implements classInterface{
   }
 
   workOnHomework():string{
-    return "Currently working";
+    return "Currently Working";
   }
   displayName():string{
     return this.firstName;
